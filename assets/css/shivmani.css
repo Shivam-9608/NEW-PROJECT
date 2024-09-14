@@ -8,7 +8,7 @@
     font-weight: 600;
 }
 
-.discover{
+.discover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 600;
 }
@@ -43,9 +43,7 @@
 
 /* ////////////////////////////////////////////////////** */
 
-.card-body {
-    text-align: center;
-}
+
 
 .autumn_breeze_hoodie {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -57,26 +55,32 @@
     font-weight: 700;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+.card_color{
+    display: flex;
+}
 .color_1 {
-    border-radius: 50%;
     background-color: #512515;
-    color: #512515;
-    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+
+
 }
 
 .color_2 {
-    border-radius: 50%;
+
     background-color: green;
-    color: green;
-    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+
 }
 
 .color_3 {
+    height: 20px;
+    width: 20px;
     border-radius: 50%;
     background-color: rgb(33, 25, 25);
-    color: (33, 25, 25);
-    border: none;
 }
 
 /* ***************size de------************ */
@@ -147,64 +151,67 @@
 .color_4 {
     border-radius: 50%;
     background-color: #1b2734;
-    color: #1b2734;
-    border: none;
+    height: 20px;
+    width: 20px;
+   
 }
 
 .color_5 {
     border-radius: 50%;
     background-color: #E56639;
-    color: #E56639;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
+   
 
 .color_6 {
     border-radius: 50px;
     background-color: #512515;
-    color: #512515;
-    border: none;
+    height: 20px;
+    width: 20px;
+   
 }
 
 .color_7 {
     border-radius: 50px;
     background-color: #e8987b;
-    color: #e8987b;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_8 {
     border-radius: 50px;
     background-color: #ff7d4d;
-    color: #ff7d4d;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_9 {
     border-radius: 50px;
     background-color: #ff4400;
-    color: #ff4400;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_10 {
     border-radius: 50px;
     background-color: #35595c;
-    color: #35595c;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_11 {
     border-radius: 50px;
     background-color: #363d34;
-    color: #363d34;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_12 {
     border-radius: 50px;
     background-color: #17215c;
-    color: #17215c;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .fastive_fall_hoodiae {
@@ -281,43 +288,43 @@
 .color_13 {
     border-radius: 50px;
     background-color: #BAB86C;
-    color: #BAB86C;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_14 {
     border-radius: 50px;
     background-color: #36454F;
-    color: #36454F;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_15 {
     border-radius: 50px;
     background-color: #814D3F;
-    color: #814D3F;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_16 {
     border-radius: 50px;
     background-color: #228B22;
-    color: #228B22;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_17 {
     border-radius: 50px;
     background-color: #5D6A78;
-    color: #5D6A78;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_18 {
     border-radius: 50px;
     background-color: #49241E;
-    color: #49241E;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 
@@ -325,43 +332,43 @@
 .color_19 {
     border-radius: 50px;
     background-color: #530B0C;
-    color: #530B0C;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_20 {
     border-radius: 50px;
     background-color: #843428;
-    color: #843428;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_21 {
     border-radius: 50px;
     background-color: #a51a05;
-    color: #a51a05;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_22 {
     border-radius: 50px;
     background-color: #4f4746;
-    color: #4f4746;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_23 {
     border-radius: 50px;
     background-color: #797271;
-    color: #797271;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 .color_24 {
     border-radius: 50px;
     background-color: #988f8e;
-    color: #988f8e;
-    border: none;
+    height: 20px;
+    width: 20px;
 }
 
 /* ****************************************** */
@@ -375,17 +382,18 @@
     padding-bottom: 100px;
 }
 
-.padding{
+.padding {
     padding-bottom: 100px;
 }
 
 
-.section3_design{
+.section3_design {
     background-color: #595959;
     padding-top: 130px;
     padding-bottom: 130px;
 }
-.section3_design > div p{
+
+.section3_design>div p {
     color: #ffffff;
     max-width: 630px;
     margin: 0 auto 30px auto;
@@ -465,24 +473,28 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.cozy{
+.cozy {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 400;
 }
-.this_thankgiving{
+
+.this_thankgiving {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 600;
 }
+
 .last_img {
     display: flex;
 }
 
-.box_text{
+.box_text {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 600;
 }
 
-.text_start{
+
+
+.text_start {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
     text-align: start;
